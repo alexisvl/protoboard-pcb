@@ -3,6 +3,10 @@
 This is a PCB layout I made for prototyping projects after I was unsatisfied
 with any of the layouts one could buy "off the shelf".
 
+*Modified* from the original: the ground bus is disconnected from the
+columns (to make bipolar supply layouts easier) and split into
+sections. Vcc/Gnd labels removed as these buses are for "whatever"
+
 ## Features
 
 * Three columns of DIP-friendly stripboard layout.
